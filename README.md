@@ -26,7 +26,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220504T014404Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b5522d7f092e4eed760206a15181e9c28ceb75aa668e408761b2f4e424a6471b)
+![](https://i.imgur.com/XDRyKSj.jpg)
 
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens  [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/622/Archive.zip "here")
 
