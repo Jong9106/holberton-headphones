@@ -1,5 +1,5 @@
 # 0x09. Implement a design from scratch
-![enter image description here](https://imgur.com/mxbQAKR)
+![enter image description here](https://i.imgur.com/mxbQAKR.png)
 
 -   By Nicolas Philippot, UI/UX designer and Guillaume Salva, CTO at Holberton School
 -   Weight: 3
